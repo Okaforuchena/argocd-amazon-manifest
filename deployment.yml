@@ -23,7 +23,7 @@ spec:
     spec: # Pod spec
       containers:
       - name: amazon-container
-        image: okaforuchena/amazon:64
+        image: okaforuchena/amazon:8
         ports:
         - containerPort: 3000
         
